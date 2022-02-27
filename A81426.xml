@@ -1,0 +1,650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the two giants in Guildhall, Colebrond and Brandamore, concerning the late election of citizens to serve in Parliament for the City of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81426</idno>
+            <idno type="STC">Wing D1335</idno>
+            <idno type="STC">Thomason E1086_13</idno>
+            <idno type="STC">ESTC R208148</idno>
+            <idno type="EEBO-CITATION">99867132</idno>
+            <idno type="PROQUEST">99867132</idno>
+            <idno type="VID">119423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119423)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1086[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the two giants in Guildhall, Colebrond and Brandamore, concerning the late election of citizens to serve in Parliament for the City of London.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authors,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A comedy.</note>
+                  <note>Annotation on Thomason copy: "Aprill 6."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>London (England) --  Politics and government --  17th century --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119423:1" rendition="simple:additions"/>
+            <p>A DIALOGUE Between the Two GIANTS In <hi>Guildhall,</hi> COLEBROND and BRANDAMORE, CONCERNING The late ELECTION OF CITIZENS to Serve in PARLIAMENT For the City of <hi>LONDON.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>—Odium, timor, ira, voluntas</l>
+                  <l>—noſtri eſt Farrago Senatus.</l>
+               </lg>
+            </q>
+            <q>
+               <bibl>Beza in Calvin.</bibl> 
+               <hi>Quia eam urbem omnino non ſine franis ccerceri poſſe cernebat.</hi> 
+               <bibl>Hook. Ecc. Polit.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the AUTHORS. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:119423:2"/>
+            <pb n="3" facs="tcp:119423:2"/>
+            <head>A <hi>DIALOG<g ref="char:V">Ʋ</g>E</hi> between the Two GYANTS in <hi>Guildhall,</hi> &amp;c.</head>
+            <sp>
+               <speaker>Brandamore.</speaker>
+               <p>
+                  <seg rend="decorInit">H</seg>Ola! <hi>Colebrant?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Colebrant.</speaker>
+               <p>
+                  <hi>Vous avez,</hi> Brandamore.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Who are you for? The Word?</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>I am for the City Chymes, like our Nephews at <hi>Bow</hi> great Clock: The Word's <hi>Six and ſeven.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>That's at no certainty.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>No, the City follow no faſhions; they may be Court-lick'd, and new dreſs'd, like thou and I, but ſtill we are in our old mode and garb; look as finely dogged, and more proudly fierce than ever.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>I wonder a vengeance how we came to be ſo fine.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>O, Ile tell you, 'Twas for the Reception of His Majeſty at His Entertainment in our Quarters: We were principally concerned, we were the Grandees, the Great ones in that Feaſt. I was going to bid him welcome in my own name.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>I was going to make a Speech too, but 'tis ſo unlucky a place for Speeches that I ſaid never a word, but only by way of repetition I had digeſted ſomethings into a
+<pb n="4" facs="tcp:119423:3"/>
+monſtrous form, and (if Giants had been ever reputed for Scholars) made a large Oration of I know not what.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>You ſhould not have lackt a Second, for I could have found in my heart to have ſaid Grace (as <hi>Hugh Peters</hi> made Prayers out of <hi>News-books</hi>) out of Mr. <hi>Pym's</hi> Speeches againſt King and Biſhops in this place.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>No, that's to be done yet: Tother morning at a Breakfaſt here betwixt <hi>Cavaliers, Presbyterians</hi> and <hi>Indepen<g ref="char:EOLhyphen"/>dents,</hi> they made ſuch a quarter, that waked me out of a ſound nap, with the loud cry of <hi>No Biſhops.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>I wondred what a Gods name they meant, to be ſo fierce; never did Oyſter Wenches with more ſtrength of lungs cry up <hi>Walſteet,</hi> than they cryed down them. But pre<g ref="char:EOLhyphen"/>thee what was the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>'T was Election-day for Parliament-men to ſerve for the City of <hi>London:</hi> I thought King <hi>Oberon</hi> was playing reaks among them: I was never ſo feard but that at laſt they would name us two, they named ſo many.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>We ſhould have made ill Burgeſſes, for Giants and Knights could never agree, there hath been ſuch a mortal feud ever ſince Sir <hi>Guy</hi>'s time between us; that plaguy Sir <hi>Guy,</hi> I can't endure to heat of him.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>No, nor the City of tamer and more civil names of Knights, as Sir <hi>Richard,</hi> Sir <hi>John,</hi> Sir <hi>William,</hi> &amp;c. I think on purpoſe to continue the quarrel, we ſhall hear ſhortly how they great, when the Knights are come to the place of the Combate. But how was the buſineſs carried? for I ſtand on the other ſide of the Huſtings, and could not ſee ſo well as you.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>You ſaw the manner of holding up their Hands?</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>I thought they would have ſnatcht my beard away ſo newly trim'd and barbed, that I was ready to defend my ſelf with my Halbert.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>The Antiepiſcopal party carried it ſo currahtly, that both of us had not hairs enough to ſerve the Hands on that ſide.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Then it ſeems they were the major part: But how came that to paſs?</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:119423:3"/>
+               <speaker>Colebr.</speaker>
+               <p>Why, did you never hear of the <hi>Covenant?</hi> They that held up their hand when they ſwore that, knew now to hold up their hand to defend it here: But here were of all ſorts; ſome who had made the <hi>Covenant</hi> like an <hi>old Alma<g ref="char:EOLhyphen"/>nack,</hi> and had worſhipped the <hi>Rumps Engagement;</hi> others that had idolized <hi>Oliver's Recognition;</hi> but moſt agreed in the Center of <hi>Church-lands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Pray, were there none of ſuch Tender-conſcien<g ref="char:EOLhyphen"/>ces as yours or mine? And I can tell you, we have been as well fam'd for Conſcience (witneſs that by-word of <hi>Shewing you the Giants at Guildhall</hi>) as <hi>Kiffin</hi> or <hi>Barebones.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>O yes, they came together in troops, one Paſtor of the Congregational Churches brought a hundred, ano<g ref="char:EOLhyphen"/>ther of the Holders-forth led ſixty to the deſtruction of the <hi>Beaſt:</hi> They ſtretcht forth their hands as if they had learned the Strappado, or the <hi>Dutch</hi> Geſling.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>And who were they for?</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>For the Moderate party, as they call it; that's a patcht Motly coloured ſort, but whoſe complexion no way favoured the Clergy; they were indeed rather negatively againſt, than poſitively for any perſon; for judging it impoſ<g ref="char:EOLhyphen"/>ſible to have ſuch an Election there as <hi>Kiffin</hi> once had at <hi>Brainford,</hi> they only kept the ballance in their hands, and when they had driven the Market, factour'd for the two Factions of <hi>Presbytery</hi> and <hi>Independency.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>I had thought thoſe two (like two Buckets) could not poſſibly be weighed up together.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Yes, there's an Engine called <hi>Neceſſity</hi> made with the Screws of <hi>Intereſt,</hi> that doth it <hi>ſecundum artem;</hi> to that purpoſe a Poet in imitation of Capt. <hi>George Withers</hi> Eſq, (in his <hi>Lamentation</hi> over his <hi>Sacriledge,</hi> and an obſtinate <hi>Rump</hi> that would not take his counſel how to continue their villanies longer than God had determined) preſented me with a Copy of Verſes (though Giants are no better friends to Poets than Poets to them, or the honeſt judicious Reader to <hi>Withers,</hi> or <hi>Withers</hi> to him) where you have the conjob<g ref="char:EOLhyphen"/>ling, conſolidating or ſoddering of <hi>Presbytery</hi> and <hi>Indepen<g ref="char:EOLhyphen"/>dency</hi>
+                  <pb n="6" facs="tcp:119423:4"/>
+moſt wonderfully expreſſed. Pray lend me your next lug.</p>
+            </sp>
+            <lg>
+               <l>WHen Cuckoo Presbyter firſt rob'd the Neſt</l>
+               <l>Of th' Harmleſs Dove, the ſmaller birds addreſt</l>
+               <l>Themſelves to it, and having learnt by rote,</l>
+               <l>Found 'twas a harſh, rigid and untun'd Note.</l>
+               <l>But yet complyed, while rub'd with Cuckoos mange,</l>
+               <l>They took their Conſcience-liberty to range;</l>
+               <l>So they divide the ſpoyl, and their lewd itch</l>
+               <l>Fell ſcratching of the RUMP (in Engliſh) Britch;</l>
+               <l>Whoſe blaſts the Cuckoo'd borrowed Feathers ruffled,</l>
+               <l>But ſince Halcyon, both together ſhuffled.</l>
+               <l>No Cuckoos now, but Pyebald Sir <hi>John Daw;</hi>
+               </l>
+               <l>Do you Kaw me, and Ile you likewiſe Kaw.</l>
+            </lg>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>So then, this is a coalition or colluſion of both theſe intereſts, in oppoſition to all other: My Grandfather was no <hi>Latin</hi> Scholar to teach me, but I know and have heard oftentimes here, that <hi>Vis unita fortior</hi>—There's no diſtruſt in a Halter.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>That's plain <hi>Engliſh,</hi> but a monſtrous Tranſla<g ref="char:EOLhyphen"/>tion; for all that I know, it may be the rendring of <hi>Ana<g ref="char:EOLhyphen"/>lepſis Analepthe:</hi> My Brother Giant <hi>Polyphemus</hi> was plagued with a fellow in <hi>Greek</hi> called <hi>No body,</hi> and I hear there's a <hi>little</hi> body one <hi>Z. C.</hi> as verſute and confident as he.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Thoſe little fellows (according to Romance) always beat Giants, let's meddle no more with them, 'tis well Squire <hi>Dun</hi> is not of our Extraordinary proportion, but one whom moſt mens cloaths will fit. But what mean you by <hi>Z. C?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>They are Conjuring Magical letters, that with the aſſiſtance of D. <hi>B.</hi> would have lain all the Biſhops in a trance for ever, far beyond our Enchantments of the <hi>Seven Champions,</hi> that is to ſay, Dr. *<hi>Burgeſſe</hi>'s Sacrilegious pur<g ref="char:EOLhyphen"/>chaſe of Deans and Chapters lands, grounded on the title of the Covenant; and <hi>Zach<g ref="char:punc">▪</g> Crofton</hi>'<g ref="char:punc">▪</g> intemperate zeal and
+<pb n="7" facs="tcp:119423:4"/>
+vain-glory of being its Champion againſt Dr. <hi>Gauden</hi>'s modifying it to an honeſt, and (as far as can be) reaſona<g ref="char:EOLhyphen"/>ble ſenſe, made all this pudder, yea, and diſturbed us and the Kingdome too.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Is that all?</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>No, theſe Paper Kites ſoared ſo high that they approached His Majeſty, nay reproached Him, by fixing many undutiful (<hi>Scotch Covenanted</hi>) ſcandalous things on Him; by dictating an Authority to be legally reſiding in Parliaments, whereby they might impoſe Covenants, Oaths, &amp;<hi>c.</hi> (worſe than that <hi>Ex Officio</hi>) without the King; and at laſt, by way of imprecation devoting the proſperity, peace, and well laid foundations of a happy ſettlement, (nay not ſparing the King himſelf) to a ſpeedy ruine and confuſion.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Was not this He that uſed to ſubſcribe himſelf the utter Enemy of the Phanariques (by way of Emphaſis) to his Every-day Books, thoſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of <hi>Presbytery,</hi> the News-books of Schiſme and Sedition, which will hardly live a Sparrows age, ſo hot and violent they are?</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Yes, yes, the very ſame; would make another glorious King, by declaiming againſt Sectaries, whileſt no man like him was graced at St. <hi>Antholins</hi> and <hi>Aldgate</hi> with ſeditious Voluntiers; the ſtream and confluence of many boiſterous unruly floods, diverted from their owne current, running into his channels, oreſwelled him beyond the bounds and land-marks of his Allegiance.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>I have heard ſay by ſome that make their vetdict under me, that Mr. <hi>Jenkins</hi> lacks ſome of his Courage, and that he will exchange it for ſome of his Cowardiſe; it's a ſad thing any man ſhould be fooled like Mr. <hi>Love.</hi> But I was no High-Court of Juſtice man, what care I.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>That's a terrible fellow our Brother Giant of <hi>Pres<g ref="char:EOLhyphen"/>bytery,</hi> the invincible Mr. <hi>J</hi>—he ſmites ſuch ſlanting blows againſt the King, that Mr. <hi>Crofton</hi>'s laſhes at—were meere jerks to them, this huge body and ſpirit defiêd once the <hi>Rump,</hi> and an Army of <hi>Redcoats</hi> with Mr. <hi>Love,</hi> but his great
+<pb n="8" facs="tcp:119423:5"/>
+courage ſoon quelled, and he wofully kiſſed their tail, to ſave the excreſcency from his ſhoulders, a head like a Mor<g ref="char:EOLhyphen"/>tar-ſhell ſtuft with incendiary matter, ſquib'd out every Son<g ref="char:EOLhyphen"/>day at <hi>C. C.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>I am amazed to think a fellow that ſo cowardly, ſhamefully, baſely begged an unneceſſary life of ſo raſcally a Crue, ſhould preſume to affront the Majeſty of his lawful Prince with ſuch <hi>Ifs</hi> and <hi>Ands;</hi> ſuch Diſloyal, if not T—reflections, and undutiful reſervations of Obedience.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>You muſt ſtile it (after them) the Chriſtians man<g ref="char:EOLhyphen"/>ner of Subjection to Princes, according to the laudable primitive practiſe of <hi>Knox</hi> and <hi>Buchanan:</hi> But if ever Giant were a Prophet, let Mr. <hi>J</hi>—beware how he engages in a new buſineſſe, for there will hardly be any room left for ano<g ref="char:EOLhyphen"/>ther Petition, or whidling Retractation.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>By theſe Men and their Artifices this <hi>Presbyterian</hi> Cabal was driven on: But pray tell me, with what counte<g ref="char:EOLhyphen"/>nance and behaviour the overvoted <hi>Cavaleirs</hi> carried them<g ref="char:EOLhyphen"/>ſelves, I ſuppoſe they ſlunk down towards the End of the Hall by your Poſt or Station.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>They had been ſo oft uſed to thoſe kind of De<g ref="char:EOLhyphen"/>feats there ever ſince the Region of <hi>Iſaac Penington,</hi> that they were as ready to drink a Cup of Sack according to cuſtome, as ever: They ſaid that that place was never reputed for any Moderate Counſels or Actions ſince Bodkins and Thim<g ref="char:EOLhyphen"/>bles, and the Infection of Publique-Faith-money and Plate; nor was never like to be, till thoſe reforming Adventurers ſaw the return of the <hi>Jamaica</hi> Silver Fleet. They ſaid they obſerved ſome Ruffs there, who having learnt from their pre<g ref="char:EOLhyphen"/>deceſſors [<hi>Nullifidians</hi>] to believe in nothing but Mammon and Idols of Gold or Silver, did ſo ſhrug at the Nomination of a generous Royalliſt, that fleeceth his own back when he but pareth others with Subſidies and Tallages, that as if they had drank a Caudle of Molten Silver, or been ſtupified with ſome great loſs or bankrupture, they ſtood as ſtill and as mute as ſtocks. And the moſt (through diſuſe of trade with Cour<g ref="char:EOLhyphen"/>tiers) having no Debentures to double upon the ſecurity of
+<pb n="9" facs="tcp:119423:5"/>
+a Regal Parliament, and ſo not byaſſed by a too great credit, had no ſuch impulſive conſiderations to elect Royalliſts. In concluſion, they ſaid the Court and City never yet under<g ref="char:EOLhyphen"/>ſtood one another, but were like the Conſtellation of <hi>Caſtor</hi> and <hi>Pollux;</hi> a riſing Courtier portending a decaying Citizen, both never ſhining together.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>The one made all of ayr, of fine thin ayr, as thin as I know what, as thin as Puff-paſt, and as light as a fea<g ref="char:EOLhyphen"/>ther: The other a dull heavy Meteor, which never aſcends above the Middle region of Honour, that's to be Knights.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Knights agen, away with um: Come, Ile give you another Stanza of Verſes concerning the City and the Court, worth a ſcore of Knights, if they were of <hi>Malta;</hi> but worth all the Brigade of Knights <hi>Oliver</hi> made: 'Tii to the Tune of, <hi>When Arthur firſt in Court began.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <l>THat which the Court from City doth diſtinguiſh</l>
+                     <l>Is nothing elſe but currant Money <hi>Engliſh:</hi>
+                     </l>
+                     <l>I wonder then there's ſo much difference now,</l>
+                     <l>Since th' Court's a ready Money Market too:</l>
+                     <l>This makes the feud, the Courts the greater getter,</l>
+                     <l>And yet the City's nere a jet the better.</l>
+                  </lg>
+                  <bibl>
+                     <hi>Virgill. Metamorph, lib.</hi> 16. according to the neweſt Edition.</bibl>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Well ſung <hi>Dogrell,</hi> you would make a rare Pane<g ref="char:EOLhyphen"/>gyriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>What's that, the name of another Gyant?</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>No, a fine ſpoken fellow, that can make <hi>Ha<g ref="char:EOLhyphen"/>rangues, Orations,</hi> bring forth ſuch mighty births of wit, that thou and I am mere Pygmies to them.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>What of this Fellow?</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Why, this Fellow ſhould write a Book of this famous Convention or <hi>Comitia,</hi> where ſuch and ſuch brave Fellows were Candidats, and received the repulſe, and ſuch and ſuch were Elected, and received the repulſe.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Goodman fool, Elected, and received the repulſe?</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:119423:6"/>
+               <speaker>Brand.</speaker>
+               <p>Yes, and that will be an honorable Come off too, if it be onely ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>What, you mean one of old <hi>Nol</hi>'s tricks; who ever Shuffled, he'd be ſure to Cut and Deal: Chooſe who they would, though never ſo Capacitated, according to all his Qualifications, yet if they were not for his tooth, they might knock at the Houſe dore, but no entrance; and this without any more adoe, or the People ſo much as min<g ref="char:EOLhyphen"/>ding it then; The Phanatiques crying it was <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>act of Rea<g ref="char:EOLhyphen"/>ſon and Juſtice as well as Neceſſity.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>No, no, what the old eſtabliſhed Lawe of the Na<g ref="char:EOLhyphen"/>tion will warrant; there are ſome private ſecret ſins, which perchance had never come to light, but by expoſing ſome perſons to publick view in ſuch a conſpicuous quality of Parliament-men, we ſubject them alſo to ſome more ſeverer inſpection and ſcrutiny, eſpecially where the life of a man and his actions have been ſo notable——You know whom: I mean?</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>No, but I gueſs ſhrewdly; I remember my late good Maſter King <hi>Charles</hi> the firſt, ſent a Letter from <hi>Oxford</hi> to my next Maſter my Lord Mayor, and to all my other Maſters of the Common-council, there was a word in it called <hi>Exception</hi> of ſome body; but I think that doth not reach any body now, becauſe our preſent gracious Maſter King <hi>Charles</hi> the ſecond hath forgiven all. But what's the buſineſs<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>That's not yet fit to be mentioned, but it hath ſome reference to <hi>Oliver,</hi> about that ugly buſineſs which ſo lately received its reward.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Well, let that paſs, Time is the Mother of Truth, But hear me, I think I ſaw ſome ſtrange faces there, which I never ſaw before?</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Yes, yes, the Brokers in <hi>Hounſditch</hi> and <hi>Long-lane</hi> had good rates for the loan of their old Livery-gowns: I ſuppoſe if thoſe Shop-books were ſearched, the names of ſeveral illegal Suffragets might be found.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Did you never hear of one <hi>Ch<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>us,</hi> ſuch another Wencher
+<pb n="11" facs="tcp:119423:6"/>
+as <hi>Harry Marten,</hi> who at the Celebration of the Rites of the <hi>Bona Dea,</hi> to be performed only by Women in the Night<g ref="char:punc">▪</g> time, diſguiſed himſelf in a Mary one ſtole <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> and for admitted imp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ted the Wife of <hi>Caſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> during the Solem<g ref="char:EOLhyphen"/>nity.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>What of that?</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>You ſhall hear a Giant mike a Compariſon; <hi>Sic Magnus com<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>re Parva.</hi> This laſt Convention or Meeting was the great day of the <hi>Diana</hi> of <hi>Presbytery,</hi> which ought to have bean Hallowed onely by the Companies, when ſome leud <hi>Rumpers,</hi> and other Allegiance-debaucht perſons crepr in in the formality of Livery-men, and defloured the City of that duty and obedience, and loyal chaſtity (being the Kings royal Chamber) which ſhe ought to have kept inviolable to His Majeſtly.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Well ſaid: But what became of <hi>Clodius?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>He was the richeſt Whore-maſter in all <hi>Rome,</hi> what with Sacriledge and Oppreſſion in his Government (which was like one of our late Major Generals o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Command) he had heaped up vaſt ſums of<g ref="char:punc">▪</g> Money<g ref="char:punc">▪</g> which they fleeced from him, and ſpunged out again; she work no doubt of or enſuing—</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>I hope ſo; I am aſhamed of my ſelf, to ſee Rogues wear as good clouths as my ſelf, and Honeſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> go in rage and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, while others wear <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their for<g ref="char:EOLhyphen"/>tunes on their backs, and wipe their mouths, and ſay, What have I done? But was not <hi>Caſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> in the mean while hainouſly offended at the diſhonour done him by his Wife<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>She pleaded a rape and deceit, the ſecond part of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and his Friends and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Seate <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> injuries of ſuch a high <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap> eſpecially of Majeſty, ſuch a great ſpirit as was that <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> invincible Caſar.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Such <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that of the Honeſt <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap> thereof, have drawn up a ſhort <hi>Remonſtrance;</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ex<g ref="char:EOLhyphen"/>preſſing
+<pb n="12" facs="tcp:119423:7"/>
+their ſenſibleneſs of the Coolneſs of ſome mens af<g ref="char:EOLhyphen"/>fections to His Majeſty in the late actings of the City, they de<g ref="char:EOLhyphen"/>clare they will unanimouſly with their lives and fortunes de<g ref="char:EOLhyphen"/>fend His Majeſties moſt Royal Perſon and Government.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>What the Furre wont, the Buffe will. But I won<g ref="char:EOLhyphen"/>der what Evil Spirit haunts this place, that can ſo ſoon unſet<g ref="char:EOLhyphen"/>tle and change the minds of men; 'tis well our compoſure and ſubſtance is of a firmer harder matter, elſe we had been <hi>Roundbeads</hi> too, turned round, and round, and about again; but prais'd be <hi>Jove</hi> we ſtand ſtiff to our Loyalty.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>One would thinke the City had had ſufficient experience what it is to ſtand tugging with their Princes, they never yet but made a rod for their own tails in the con<g ref="char:EOLhyphen"/>cluſion.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>'Tis an old reſtineſs in them, the King hath ne're ſuch a generous Steed in his Stables, ſetting aſide that incu<g ref="char:EOLhyphen"/>rable inveterate malady.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>So it is indeed, all the bleeding in the world will never cure it.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>I hope thee and I ſhall be thought nere the worſe for it, nor other Honeſt Loyal Subjects, of which I dare aſſure the King here's good ſtore, and more no doubt will be, when they feel and will willingly ſee the happy effects of His Majeſties admired moderation and goodneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>On ſome men that will make no more impreſſion than upon us.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>They'l have the worſe on't then, for that obedi<g ref="char:EOLhyphen"/>ence which men pay perforce is the worſt kind of Service, and Ile promiſe them they ſhall never <hi>Rump</hi> it again.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Nay, now they have (as they think) done their buſineſs, I beleive the wiſeſt of them wiſh it undone again, lot it may chance to pro<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> the ſingle, ſenſe of the City, whoſe Tunes are not always the beſt Ayres, and to be uni<g ref="char:EOLhyphen"/>verſally danced after: There's a difference now from what it was laſt year, when it had the only lawful Magiſtrates within its Walls and liberties, and what it is now, a ſubordinate Juriſdiction.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:119423:7"/>
+               <speaker>Brand.</speaker>
+               <p>But yet they were very confident of driving on the Deſigne; what elſe meant thoſe Letters poſted into the reſpective Counties?</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>They might as well have ſent them by <hi>Tom Long</hi> the Carrier, or by either of us, it would have come all to one paſs, for they were intercepted, and the Rhotomanta<g ref="char:EOLhyphen"/>does of <hi>Presbytery</hi> found in them, laid by for Waſte Paper, and the Epiſtolars diſmiſt with a <hi>Do ſo no more.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Marry that's brave; now had ſuch a thing hapned in the Uſurpation, we muſt have had a Common-hall, and ſuch a Plot diſcovered, ſuch a bloody Deſigne, would make me weep and relent to hear it; Mr. <hi>Thurloe</hi> or my Lord—muſt have made a Speech, and given the particulars, and then they muſt have gone home to their Wives.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>And what then?</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Nay, I was never out of this place, I know not what they do there, but any man may ſuppoſe what comes with a fear, when all that Caudle, and Muskadine and Eggs can do, is ſcarce able to keep life and ſoul toge<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>I have heard a woundy many Plots here, where the Fox was the Finder; but I think ſome of them have plotted very fairly.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>So may all whoſe traiterous wits run upon ſuch Deſignes. Well, and what think you of the approaching P—</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>'Tis not for ſuch Loggerheads as you and I to know or ſuppoſe any thing of that illuſtrious grave Aſſem<g ref="char:EOLhyphen"/>bly; but they ſay that the Countrey-fellows are ſuch Ma<g ref="char:EOLhyphen"/>lignants that they chuſe none but Royalliſts, ſo that they ſay, in ſtead of a Liſt of Parliament-men, we ſhall have the Genealogy of Cavaliers; and our Folks, and ſuch like, will look like the <hi>Members of the other Houſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>You ſhall ſee there will be as fair a complyance, and as much good Patriot-work done in this as in any other preceding; ſuch ſlender oppoſition as will by chance be made, wil rather promote their zeal to their King and Coun<g ref="char:EOLhyphen"/>treys Service.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:119423:8"/>
+               <speaker>Colebr.</speaker>
+               <p>I doubt not of it: But here will be before that time a Celebrity of a Coronation, and that will awe and ſix mens minds a little better.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Would the City Engineer would have ſpared the City ſome coſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſet you and I on both ſides ſome Street in <hi>London</hi> in room of a Pageant.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>The King hath ſeen as already, and they can hardly give him any delight, or contribute to the magnificence of that day with any thing out of <hi>Guildhall,</hi> he hath been ſo re<g ref="char:EOLhyphen"/>cently diſtaſted from thence.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>What the Devill ſhall we do here? We'l draw a Petition to be removed hence, the <hi>Tarpawlins</hi> ever ſince that Election have continued ſuch a bawling and clutter as if they had been chufing Burgo-maſters for the Fleet.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Here's a fine din, if it were not for one good word when they have got their Money in their hats [<hi>God ſave the King</hi>] I ſhould never endure it; it is a ſad thing for us of this bulk to ſtand ſo long in <hi>Little Eaſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>Let's jump down when the Rogues have got their Money, and rob um, and go ſee the Coronation, it's but making a week or two Play-days the while, for we ſtand meerly for Cyphers to be flouted at by every Cabbin-boy.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>I, and purge our ſelves as well as our Brother Sword-men.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>And go and offer our ſervice to the Kings Cham<g ref="char:EOLhyphen"/>pion.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>I am clearly out of love with this place ſince—Ile do any thing to be gone.</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>I am well acquainted of this ſide with ſome young Clerks of the Sheriffs Court, Ile get you and me a <hi>Habeas Corpus cum cauſa,</hi> and if the Judges of the Land don't allow it to be juſt and Honeſt, let the Kings good Subjects be bound as we are to others Ill behaviour, and have no re<g ref="char:EOLhyphen"/>medy but patience.</p>
+            </sp>
+            <sp>
+               <speaker>Colebr.</speaker>
+               <p>Who ſhall be our Bail?</p>
+            </sp>
+            <sp>
+               <speaker>Brand.</speaker>
+               <p>My Lord Maior of <hi>Quinborough,</hi> and my Lord at <hi>Baſing-ſtoke.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Agreed.</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:119423:8"/>
+               <speaker>Colebr.</speaker>
+               <lg>
+                  <l>Thus we the <hi>Genii</hi> of this place,</l>
+                  <l>Rather then ſee a new Diſgrace,</l>
+                  <l>Defenceleſs leave this thankleſs Hall,</l>
+                  <l>A brave Adventure doth us call.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Brandr.</speaker>
+               <lg>
+                  <l>The Lawyers help us with new Suits;</l>
+                  <l>Farewell <hi>Presbyters</hi> Diſputes,</l>
+                  <l>And your late ſad Reformation;</l>
+                  <l>Welcome, welcome Coronation.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
